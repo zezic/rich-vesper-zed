@@ -1,7 +1,10 @@
-id = "vesper"
-name = "Vesper"
-version = "0.1.0"
+id = "rich-vesper"
+name = "Rich Vesper"
+version = "0.0.1"
 schema_version = 1
-authors = ["bdsqqq <igorbedesqui@gmail.com>"]
-description = "Peppermint and orange flavored dark theme."
-repository = "https://github.com/bdsqqq/vesper-zed"
+authors = [
+    "Sergey Ukolov <zezic51@yandex.ru>",
+    "bdsqqq <igorbedesqui@gmail.com>",
+]
+description = "Modified peppermint and orange flavored dark theme."
+repository = "https://github.com/zezic/rich-vesper-zed"

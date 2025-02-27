@@ -1,7 +1,7 @@
-![Vesper Preview](./.github/assets/preview.png)
+![Rich Vesper Preview](./.github/assets/preview.png)
 
-# Vesper
+# Rich Vesper
 
-Peppermint and orange flavored dark theme for Zed.
+Modified version of famous peppermint and orange flavored dark theme for Zed. Contains a few additional colors and a few tweaks to the original theme, the punctuation and comments are attenuated.
 
-Port of the [Vesper VSCode theme](https://github.com/raunofreiberg/vesper/tree/main) For Zed.
+Modified version of [Vesper Zed theme](https://github.com/bdsqqq/vesper-zed).

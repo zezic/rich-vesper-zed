@@ -56,13 +56,15 @@
         "editor.gutter.background": "#101010",
         "editor.subheader.background": "#101010",
         "editor.active_line.background": "#191919",
+        "editor.indent_guide": "#FFFFFF05",
+        "editor.indent_guide_active": "#FFFFFF0A",
         "editor.highlighted_line.background": "#101010",
         "editor.line_number": "#505050",
         "editor.active_line_number": "#FFF",
         "editor.invisible": "#ffffff06",
         "editor.wrap_guide": null,
         "editor.active_wrap_guide": null,
-        "editor.document_highlight.read_background": "#282828",
+        "editor.document_highlight.read_background": "#1D3436",
         "editor.document_highlight.write_background": "#282828",
         "terminal.background": "#101010",
         "terminal.foreground": "#A0A0A0",
@@ -139,7 +141,7 @@
           {
             "cursor": "#FFC799ff",
             "background": "#FFC799ff",
-            "selection": "#FFC79904"
+            "selection": "#FFC79905"
           },
           {
             "cursor": "#99FFE4ff",
@@ -222,6 +224,12 @@
           "operator": {
             "color": "#A0A0A0",
             "font_style": null,
+            "font_weight": null
+          },
+          "property": {
+            "color": "#9AB0AB",
+            "background_color": "#C4E0D902",
+            "font_style": "italic",
             "font_weight": null
           },
           "punctuation": {

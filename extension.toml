@@ -1,6 +1,6 @@
 id = "rich-vesper"
 name = "Rich Vesper"
-version = "0.0.1"
+version = "0.0.2"
 schema_version = 1
 authors = [
     "Sergey Ukolov <zezic51@yandex.ru>",

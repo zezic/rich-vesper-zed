@@ -155,6 +155,11 @@
             "font_style": "italic",
             "font_weight": null
           },
+          "boolean": {
+            "color": "#B2E6DC",
+            "font_style": null,
+            "font_weight": null
+          },
           "comment": {
             "color": "#505050",
             "font_style": "italic",
